@@ -8,6 +8,8 @@ compact.py updates the compactness index for a data set that has completed photo
 
 ExpertPhotom.py is the up to date manual photometry code
 
+ExpertPhotom_API.py is an out of date manual photometry code that lets the user use Google Drive API to load the mosaics (the user needs a valid .JSON file for it to work)
+
 Photometry_Flagging.py recreates images from previously conducted photometry and allows users to apply desired flags
 
 Make_Acknowledgements.py makes and formats an acknowledgements list from crowdsourcing submissions and identifies potentially inappropriate submissions for manual review
